@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/s-banks?tab=repositories](https://github.com/s-banks?tab=repositories)
 
-- 📫 How to reach me **shane.banks02@gmail.com**
+- 📫 How to reach me **Please contact me through LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
