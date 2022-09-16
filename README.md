@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Shane Banks</h1>
 <h3 align="center">A passionate Full-Stack developer from the US.</h3>
 
-- 🔭 I’m currently working on **getting through Codeup!**
-
 - 👨‍💻 All of my projects are available at [https://github.com/s-banks?tab=repositories](https://github.com/s-banks?tab=repositories)
 
 - 📫 How to reach me: **Please contact me through LinkedIn**
