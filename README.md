@@ -1,7 +1,8 @@
 <h1 align="center">Hello, I'm Shane Banks</h1>
 <h3 align="center">A passionate Full-Stack developer from the US.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/s-banks?tab=repositories](https://github.com/s-banks?tab=repositories)
+- 👨‍💻 Most of my projects are available at [https://github.com/s-banks?tab=repositories](https://github.com/s-banks?tab=repositories)
+- Many of my more recent professional and personal projects are using repo storage other than GitHub, such as AWS Codecommit or Bitbucket. As such, much of activity isn't reflected in my activity/commit history here on GitHub.
 
 - 📫 How to reach me: **Please contact me through LinkedIn**
 
